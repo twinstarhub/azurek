@@ -1,0 +1,7 @@
+apiVersion: engine.azk.io/v1alpha1
+kind: NodePool
+metadata:
+  name: nodepool-sample
+spec:
+  # Add fields here
+  foo: bar
