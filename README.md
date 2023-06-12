@@ -1,4 +1,4 @@
-# azk
+# azurek
 Create Kubernetes Clusters on Azure, with configurable controllers, providing provisioning and beyond management capabilities
 
 ## Principles
